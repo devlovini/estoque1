@@ -9,7 +9,7 @@ public class Produto {
         this.quantidade = quantidade;
     }
 
-    // Getters e Setters
+   
     public String getNome() { return nome; }
     public double getPreco() { return preco; }
     public int getQuantidade() { return quantidade; }
